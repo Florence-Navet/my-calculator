@@ -53,6 +53,34 @@ The function that performs the calculation and allows the user to continue with 
 3. Run the script using a Python interpreter:
    ```bash
    python calculator.py
-  ```
----
+   ```
+
+   ---
+
+# How to Use  
+
+1. Launch the program.  
+2. Choose an option from the menu :
+   * Option 1: Clear the calculation history
+   * Option 2: View the calculation history
+   * Option 3: Perform a new calculation
+   * Option 4: Exit the calculator
+3. For calculations, you will be prompted to enter numbers and choose operators.
+4. After each calculation, the result will be stored in the history.
+5. You can continue calculating with the previous result if desired.
+
+# Licence
+This project is licensed under the MIT License - see the LICENSE file for details.  
+
+
+# Project made by  
+  
+- Thibault Manse  
+- Vanessa Sabatier  
+- Joseph Dmytriyev  
+- Florence Navet  
+
+
+
+
 
